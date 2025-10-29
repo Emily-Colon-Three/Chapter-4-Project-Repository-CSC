@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761697124 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/ShippingCharges/main.cpp
+	<iostream>
+	<iomanip>
+
